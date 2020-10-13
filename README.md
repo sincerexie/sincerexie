@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sincerexie/sincerexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Sincere Xie.
 
 - 🔭 I’m currently working on an e-commerce company
 - 🌱 I’m currently learning web
@@ -11,4 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [sincere_xie](https://twitter.com/sincere_xie_dev)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my spare time, I want to be a writer
--->
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sincerexie&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
