@@ -10,4 +10,4 @@ I am Sincere Xie.
 - ⚡ Fun fact: In my spare time, I want to be a writer
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sincerexie&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=sincerexie&theme=chartreuse-dark&show_icons=true" />
